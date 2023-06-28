@@ -1,5 +1,5 @@
-- Listar Buckets e o tamanho deles
-(Esse script roda dentro do CloudShell na AWS, e vai listar os buckets referente a conta que você estiver logado)
+- Listagem de Buckets S3 e seus respectivos tamanhos!
+-      Obs:(Esse script roda dentro do CloudShell na AWS, e vai listar os buckets referente a conta que você estiver logado)
 
 - Etapa 1: (Vai abrir um editor e automaticamente criar o arquivo “buckets.sh”) 
 -      vi buckets.sh
